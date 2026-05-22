@@ -1,0 +1,1 @@
+Campo para introducir una dirección de correo y opción para confirmar los datos en JavaFX.
